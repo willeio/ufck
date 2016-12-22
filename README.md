@@ -1,5 +1,5 @@
-# µfck
-ufck (µfck) is a minimal bios including a brainf*ck interpreter for the Arduino Uno (ATmega 328p) with the total binary size of less than 1000 bytes.
+# Âµfck
+ufck (Âµfck) is a minimal bios including a brainf*ck interpreter for the Arduino Uno (ATmega 328p) with the total binary size of less than 1000 bytes.
 
 # Requirements
 > avr-gcc, avrdude
